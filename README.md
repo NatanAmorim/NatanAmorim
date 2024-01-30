@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Natan Amorim and also a Nerd
 
+- My PC and Mac setups, programs, confgurations and more are avaliable in [myconfig](https://github.com/NatanAmorim/myconfig).
 <!--
 **NatanAmorim/NatanAmorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

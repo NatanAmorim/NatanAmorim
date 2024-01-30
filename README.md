@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Natan Amorim and also a Nerd
+### Hi there 👋
 
 - My PC and Mac setups, programs, confgurations and more are avaliable in [myconfig](https://github.com/NatanAmorim/myconfig).
 <!--

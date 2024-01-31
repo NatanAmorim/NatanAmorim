@@ -3,6 +3,8 @@
 **NatanAmorim/NatanAmorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+## About me
+
 Full-Stack Developer, although I do like Front-End a bit more 😃
 
 - ⚡ I am a results-driven software developer with experience in creating efficient software solutions with a focus on C# and Flutter.
@@ -11,7 +13,7 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 - ▶️ I **WILL** regularly post videos on [youtube.com/@natanamorim3746](https://www.youtube.com/@natanamorim3746).
 - 👨‍💻 Configurations and more are available in [myconfig](https://github.com/NatanAmorim/myconfig).
 
-## 🛠 My Tech Stack
+## Tech Stack
 
 <!-- ### Front-End -->
 
@@ -44,11 +46,11 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
   Icons from <https://simpleicons.org>.
 -->
 
-## 🔥 NatanAmorim's Status
-
-![NatanAmorim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatanAmorim&theme=dracula&hide_border=false)
+## NatanAmorim's Status
 
 ![NatanAmorim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanAmorim&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
+![NatanAmorim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatanAmorim&theme=dracula&hide_border=false)
 
 <!--
   GitHub Stats thanks to <https://github.com/anuraghazra/github-readme-stats>.

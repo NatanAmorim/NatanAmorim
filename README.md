@@ -3,14 +3,15 @@
 **NatanAmorim/NatanAmorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## About me
-
 Full-Stack Developer, although I do like Front-End a bit more 😃
 
-- ⚡ I am a results-driven software developer with experience in creating efficient software solutions with a focus on C# and Flutter.
-- 🤵🏻 Contact me at [LinkedIn](https://www.linkedin.com/in/natan-amorim-souza-gomes-de-moraes/).
+## About me
+
+[![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@natanamorim3746)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/natan-amorim-souza-gomes-de-moraes)
+
+- ⚡ I am a results-driven software developer creating efficient software solutions with a focus on C# and Flutter.
 - 💬 Ask me about C# • .NET • Flutter • TypeScript • React.
-- ▶️ I **WILL** regularly post videos on [youtube.com/@natanamorim3746](https://www.youtube.com/@natanamorim3746).
 - 👨‍💻 Configurations and more are available in [myconfig](https://github.com/NatanAmorim/myconfig).
 
 ## Tech Stack
@@ -18,7 +19,7 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 <!-- ### Front-End -->
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)
 
 <!-- ### Back-End -->
 
@@ -27,9 +28,9 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 
 <!-- ### Tools -->
 
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai&logoColor=24A47F)
 ![Google Bard](https://img.shields.io/badge/-Google%20Bard-05122A?style=flat&logo=googlebard&logoColor=886FBF)
 

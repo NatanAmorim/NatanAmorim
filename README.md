@@ -18,29 +18,29 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 
 <!-- ### Front-End -->
 
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)
+[![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)](https://flutter.dev)
+[![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev)
 
 <!-- ### Back-End -->
 
-![.Net](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=dotnet&logoColor=512BD4)
-![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=85EA2D)
+[![.Net](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=dotnet&logoColor=512BD4)](https://dotnet.microsoft.com/en-us/)
+[![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=85EA2D)](https://swagger.io)
 
 <!-- ### Tools -->
 
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai&logoColor=24A47F)
-![Google Bard](https://img.shields.io/badge/-Google%20Bard-05122A?style=flat&logo=googlebard&logoColor=886FBF)
+[![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)](https://www.figma.com)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)](http://postman.com)
+[![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai&logoColor=24A47F)](https://chat.openai.com)
+[![Google Bard](https://img.shields.io/badge/-Google%20Bard-05122A?style=flat&logo=googlebard&logoColor=886FBF)](https://bard.google.com)
 
 <!-- ### Databases -->
 
-![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB&logoColor=47A248)
-![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariaDB&logoColor=003545)
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=003B57)
+[![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB&logoColor=47A248)](https://www.mongodb.com)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariaDB&logoColor=003545)](https://mariadb.org)
+[![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=003B57)](https://www.sqlite.org)
 
 <!--
   Static Badges from <https://shields.io/badges>.

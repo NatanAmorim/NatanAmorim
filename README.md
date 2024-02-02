@@ -14,6 +14,8 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 - 💬 Ask me about C# • .NET • Flutter • TypeScript • React.
 - 👨‍💻 Configurations and more are available in [myconfig](https://github.com/NatanAmorim/myconfig).
 
+![NatanAmorim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatanAmorim&theme=dracula&hide_border=false)
+
 ## Tech Stack
 
 <!-- ### Front-End -->
@@ -48,11 +50,7 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
   Icons from <https://simpleicons.org>.
 -->
 
-## NatanAmorim's Status
-
-![NatanAmorim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanAmorim&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-
-![NatanAmorim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatanAmorim&theme=dracula&hide_border=false)
+![NatanAmorim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanAmorim&theme=dracula&show_icons=true&hide_border=false&hide_title=true&layout=normal&hide=c,cpp,c%2B%2B,ruby,cmake)
 
 <!--
   GitHub Stats thanks to <https://github.com/anuraghazra/github-readme-stats>.

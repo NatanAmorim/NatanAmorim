@@ -9,12 +9,12 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 
 [![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=FFFFFF&color=FF0000)](https://www.youtube.com/@natanamorim3746)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=FFFFFF&color=0A66C2)](https://www.linkedin.com/in/natan-amorim-souza-gomes-de-moraes)
+[![MyConfigurations](https://img.shields.io/badge/-💻%20myconfig-05122A?style=flat&color=FFDD00)](https://github.com/NatanAmorim/myconfig)
 
-- ⚡ I am a results-driven software developer creating efficient software solutions with a focus on C# and Flutter.
+- 👨‍💻 I am a results-driven software developer creating efficient software solutions with a focus on C# and Flutter.
 - 💬 Ask me about C# • .NET • Flutter • TypeScript • React.
-- 👨‍💻 Configurations and more are available in [myconfig](https://github.com/NatanAmorim/myconfig).
 
-![NatanAmorim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatanAmorim&theme=dracula&hide_border=false)
+[![NatanAmorim's Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatanAmorim&theme=dracula&hide_border=false)](https://github.com/NatanAmorim?tab=repositories)
 
 ## Tech Stack
 
@@ -50,7 +50,7 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
   Icons from <https://simpleicons.org>.
 -->
 
-![NatanAmorim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanAmorim&theme=dracula&show_icons=true&hide_border=false&hide_title=true&layout=normal&hide=c,cpp,c%2B%2B,ruby,cmake)
+[![NatanAmorim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanAmorim&theme=dracula&show_icons=true&hide_border=false&hide_title=true&layout=normal&hide=c,cpp,c%2B%2B,ruby,cmake)](https://github.com/NatanAmorim?tab=repositories)
 
 <!--
   GitHub Stats thanks to <https://github.com/anuraghazra/github-readme-stats>.

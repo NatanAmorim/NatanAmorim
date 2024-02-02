@@ -14,8 +14,9 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 - 💬 Ask me about C# • .NET • Flutter • TypeScript • React.
 - 👨‍💻 I am a results-driven software developer creating efficient software solutions with a focus on C# and Flutter.
 
-[![NatanAmorim's Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatanAmorim&theme=dracula&hide_border=false)](https://github.com/NatanAmorim?tab=repositories)&nbsp;&nbsp;
-[![NatanAmorim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanAmorim&theme=dracula&show_icons=true&hide_border=false&hide_title=false&layout=donut&hide=c,cpp,c%2B%2B,ruby,cmake)](https://github.com/NatanAmorim?tab=repositories)
+[![NatanAmorim's Commits](https://github-readme-streak-stats.herokuapp.com/?user=NatanAmorim&theme=dracula&hide_border=false&card_width=180&hide_current_streak=true&hide_longest_streak=true)](https://github.com/NatanAmorim?tab=repositories)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![NatanAmorim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanAmorim&theme=dracula&show_icons=true&hide_border=false&hide_title=true&layout=donut&hide=c,cpp,c%2B%2B,ruby,cmake)](https://github.com/NatanAmorim?tab=repositories)
 
 ## Tech Stack
 

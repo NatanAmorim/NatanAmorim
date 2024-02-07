@@ -15,7 +15,7 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 - 👨‍💻 I am a results-driven software developer creating efficient software solutions with a focus on C# and Flutter.
 
 [![NatanAmorim's Commits](https://github-readme-streak-stats.herokuapp.com/?user=NatanAmorim&theme=dracula&hide_border=false&card_width=180&hide_current_streak=true&hide_longest_streak=true)](https://github.com/NatanAmorim?tab=repositories)
-&nbsp;&nbsp;
+&nbsp;
 [![NatanAmorim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanAmorim&theme=dracula&show_icons=true&hide_border=false&hide_title=true&layout=donut&hide=c,cpp,c%2B%2B,ruby,cmake)](https://github.com/NatanAmorim?tab=repositories)
 
 ## Tech Stack
@@ -48,6 +48,6 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 [![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=sqlite&logoColor=003B57&color=282A36)](https://www.sqlite.org)
 
 > [!NOTE]\
-> Icons from <https://simpleicons.org>.  
-> Static Badges from <https://shields.io/badges>.  
+> Icons from <https://simpleicons.org>.\
+> Static Badges from <https://shields.io/badges>.\
 > GitHub Stats thanks to <https://github.com/anuraghazra/github-readme-stats>.

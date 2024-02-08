@@ -37,7 +37,7 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 [![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=postman&logoColor=FF6C37&color=282A36)](http://postman.com)
 [![Godot Engine](https://img.shields.io/badge/-Godot-05122A?style=flat-square&logo=godotengine&logoColor=478CBF&color=282A36)](https://godotengine.org)
 [![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat-square&logo=openai&logoColor=24A47F&color=282A36)](https://chat.openai.com)
-[![Google Bard](https://img.shields.io/badge/-Google%20Bard-05122A?style=flat-square&logo=googlebard&logoColor=886FBF&color=282A36)](https://bard.google.com)
+[![Google Bard](https://img.shields.io/badge/-Google%20Bard%2FGemini-05122A?style=flat-square&logo=googlebard&logoColor=886FBF&color=282A36)](https://bard.google.com)
 
 <!-- ### Databases -->
 

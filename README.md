@@ -9,7 +9,7 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 
 [![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=FFFFFF&color=FF0000)](https://www.youtube.com/@natanamorim3746)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=FFFFFF&color=0A66C2)](https://www.linkedin.com/in/natan-amorim-souza-gomes-de-moraes)
-[![My Configuration](https://img.shields.io/badge/-💻%20my-config-05122A?style=flat&color=yellow)](https://github.com/NatanAmorim/my-config)
+[![My Configuration](https://img.shields.io/badge/-💻%20my%E2%80%93config-05122A?style=flat&color=yellow)](https://github.com/NatanAmorim/my-config)
 
 - 💬 Ask me about C# • .NET • Flutter • TypeScript • React.
 - 👨‍💻 I am a results-driven software developer creating efficient software solutions with a focus on C# and Flutter.
@@ -50,4 +50,5 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 > [!NOTE]\
 > Icons from <https://simpleicons.org>.\
 > Static Badges from <https://shields.io/badges>.\
-> GitHub Stats thanks to <https://github.com/anuraghazra/github-readme-stats>.
+> GitHub Stats thanks to <https://github.com/anuraghazra/github-readme-stats>.\
+> [URL-Encoding](https://developer.mozilla.org/en-US/docs/Glossary/percent-encoding) needed for spaces or special characters in a URL ([RFC 3986](https://datatracker.ietf.org/doc/html/rfc3986)).

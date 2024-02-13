@@ -7,9 +7,9 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 
 ## About me
 
+[![My Configurations](https://img.shields.io/badge/-my%E2%80%93configs-05122A?style=flat&logo=git&logoColor=FFFFFF&color=darkcyan)](https://github.com/NatanAmorim/my-configs)
 [![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=FFFFFF&color=FF0000)](https://www.youtube.com/@natanamorim3746)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=FFFFFF&color=0A66C2)](https://www.linkedin.com/in/natan-amorim-souza-gomes-de-moraes)
-[![My Configuration](https://img.shields.io/badge/-💻%20my%E2%80%93config-05122A?style=flat&color=yellow)](https://github.com/NatanAmorim/my-config)
 
 - 💬 Ask me about C# • .NET • Flutter • TypeScript • React.
 - 👨‍💻 I am a results-driven software developer creating efficient software solutions with a focus on C# and Flutter.

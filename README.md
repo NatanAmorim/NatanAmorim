@@ -43,9 +43,10 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat-square&logo=microsoft%20sql%20server&logoColor=CC2927&color=282A36)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=4169E1&color=282A36)](https://www.postgresql.org)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongoDB&logoColor=47A248&color=282A36)](https://www.mongodb.com)
-[![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat-square&logo=mariaDB&logoColor=003545&color=282A36)](https://mariadb.org)
 [![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=sqlite&logoColor=003B57&color=282A36)](https://www.sqlite.org)
+[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1&color=282A36)](https://www.mysql.com)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat-square&logo=mariaDB&logoColor=003545&color=282A36)](https://mariadb.org)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongoDB&logoColor=47A248&color=282A36)](https://www.mongodb.com)
 
 > [!NOTE]\
 > Icons from <https://simpleicons.org>.\

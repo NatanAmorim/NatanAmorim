@@ -11,7 +11,7 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 [![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=FFFFFF&color=FF0000)](https://www.youtube.com/@natanamorim3746)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=FFFFFF&color=0A66C2)](https://www.linkedin.com/in/natan-amorim-souza-gomes-de-moraes)
 
-- 💬 Ask me about C# • .NET Core • Flutter • Rust? (learning).
+- 💬 Ask me about **.NET Core**, **Flutter**, **C#**, **Dart**, **Rust**? (still learning rust).
 - 👨‍💻 I am a results-driven software developer creating efficient software solutions with a focus on C# and Flutter.
 
 [![NatanAmorim's Commits](https://github-readme-streak-stats.herokuapp.com/?user=NatanAmorim&theme=dracula&hide_border=false&card_width=180&hide_current_streak=true&hide_longest_streak=true)](https://github.com/NatanAmorim?tab=repositories)
@@ -26,7 +26,7 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 
 [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=flutter&logoColor=02569B&color=282A36)](https://flutter.dev)
 [![.Net](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat-square&logo=dotnet&logoColor=512BD4&color=282A36)](https://dotnet.microsoft.com/en-us/)
-[![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat-square&logo=swagger&logoColor=85EA2D&color=282A36)](https://swagger.io)
+[![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust&logoColor=000000&color=282A36)](https://www.rust-lang.org/)
 [![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat-square&logo=openai&logoColor=24A47F&color=282A36)](https://chat.openai.com)
 [![Google Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat-square&logo=googlebard&logoColor=886FBF&color=282A36)](https://gemini.google.com/app)
 
@@ -34,6 +34,7 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 
 [![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat-square&logo=figma&logoColor=F24E1E&color=282A36)](https://www.figma.com)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC&color=282A36)](https://code.visualstudio.com/)
+[![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat-square&logo=swagger&logoColor=85EA2D&color=282A36)](https://swagger.io)
 [![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=postman&logoColor=FF6C37&color=282A36)](http://postman.com)
 [![Godot Engine](https://img.shields.io/badge/-Godot-05122A?style=flat-square&logo=godotengine&logoColor=478CBF&color=282A36)](https://godotengine.org)
 

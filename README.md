@@ -11,7 +11,7 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 [![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=FFFFFF&color=FF0000)](https://www.youtube.com/@natanamorim3746)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=FFFFFF&color=0A66C2)](https://www.linkedin.com/in/natan-amorim-souza-gomes-de-moraes)
 
-- 💬 Ask me about C# • .NET • Flutter • TypeScript • React.
+- 💬 Ask me about C# • .NET Core • Flutter • Rust? (learning).
 - 👨‍💻 I am a results-driven software developer creating efficient software solutions with a focus on C# and Flutter.
 
 [![NatanAmorim's Commits](https://github-readme-streak-stats.herokuapp.com/?user=NatanAmorim&theme=dracula&hide_border=false&card_width=180&hide_current_streak=true&hide_longest_streak=true)](https://github.com/NatanAmorim?tab=repositories)

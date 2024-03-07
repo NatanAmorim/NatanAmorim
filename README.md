@@ -11,27 +11,23 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 [![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=FFFFFF&color=FF0000)](https://www.youtube.com/@natanamorim3746)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=FFFFFF&color=0A66C2)](https://www.linkedin.com/in/natan-amorim-souza-gomes-de-moraes)
 
-- 💬 Ask me about **.NET Core**, **Flutter**, **C#**, **Dart**, **Rust**? (still learning rust).
+- 💬 Ask me about **.NET Core**, **Flutter**, **C#**, **Dart** and maybe**Rust**? (still learning rust).
 - 👨‍💻 I am a results-driven software developer creating efficient software solutions with a focus on C# and Flutter.
-
-[![NatanAmorim's Commits](https://github-readme-streak-stats.herokuapp.com/?user=NatanAmorim&theme=dracula&hide_border=false&card_width=180&hide_current_streak=true&hide_longest_streak=true)](https://github.com/NatanAmorim?tab=repositories)
-&nbsp;
-[![NatanAmorim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanAmorim&theme=dracula&show_icons=true&hide_border=false&hide_title=true&layout=donut&hide=c,cpp,c%2B%2B,ruby,cmake)](https://github.com/NatanAmorim?tab=repositories)
 
 ## Tech Stack
 
 <!-- ### Front-End -->
 <!-- ### Back-End -->
 <!-- ### AI Chat -->
-
 [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=flutter&logoColor=02569B&color=282A36)](https://flutter.dev)
 [![.Net](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat-square&logo=dotnet&logoColor=512BD4&color=282A36)](https://dotnet.microsoft.com/en-us/)
 [![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust&logoColor=000000&color=282A36)](https://www.rust-lang.org/)
 [![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat-square&logo=openai&logoColor=24A47F&color=282A36)](https://chat.openai.com)
-[![Google Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat-square&logo=googlebard&logoColor=886FBF&color=282A36)](https://gemini.google.com/app)
+[![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-05122A?style=flat-square&logo=googlebard&logoColor=8E75B2&color=282A36)](https://gemini.google.com/app)
+<!-- !!! THIS S**T DOESN'T WORK!! WHY? HAS I EVER? -->
+<!-- [![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-05122A?style=flat-square&logo=googlegemini&logoColor=8E75B2&color=282A36)](https://gemini.google.com/app) -->
 
 <!-- ### Tools -->
-
 [![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat-square&logo=figma&logoColor=F24E1E&color=282A36)](https://www.figma.com)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC&color=282A36)](https://code.visualstudio.com/)
 [![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat-square&logo=swagger&logoColor=85EA2D&color=282A36)](https://swagger.io)
@@ -39,7 +35,6 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 [![Godot Engine](https://img.shields.io/badge/-Godot-05122A?style=flat-square&logo=godotengine&logoColor=478CBF&color=282A36)](https://godotengine.org)
 
 <!-- ### Databases -->
-
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat-square&logo=microsoft%20sql%20server&logoColor=CC2927&color=282A36)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=4169E1&color=282A36)](https://www.postgresql.org)
 [![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=sqlite&logoColor=003B57&color=282A36)](https://www.sqlite.org)

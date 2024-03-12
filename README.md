@@ -23,9 +23,8 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 [![.Net](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat-square&logo=dotnet&logoColor=512BD4&color=282A36)](https://dotnet.microsoft.com/en-us/)
 [![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust&logoColor=000000&color=282A36)](https://www.rust-lang.org/)
 [![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat-square&logo=openai&logoColor=24A47F&color=282A36)](https://chat.openai.com)
-[![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-05122A?style=flat-square&logo=googlebard&logoColor=8E75B2&color=282A36)](https://gemini.google.com/app)
-<!-- !!! THIS S**T DOESN'T WORK!! WHY? HAS I EVER? -->
-<!-- [![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-05122A?style=flat-square&logo=googlegemini&logoColor=8E75B2&color=282A36)](https://gemini.google.com/app) -->
+[![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-05122A?style=flat-square&logo=googlegemini&logoColor=8E75B2&color=282A36)](https://gemini.google.com/app)
+
 
 <!-- ### Tools -->
 [![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat-square&logo=figma&logoColor=F24E1E&color=282A36)](https://www.figma.com)

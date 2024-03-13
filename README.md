@@ -26,18 +26,22 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 [![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-05122A?style=flat-square&logo=googlegemini&logoColor=8E75B2&color=282A36)](https://gemini.google.com/app)
 
 
-<!-- ### Tools -->
+<!-- ### Dev Software -->
 [![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat-square&logo=figma&logoColor=F24E1E&color=282A36)](https://www.figma.com)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC&color=282A36)](https://code.visualstudio.com/)
 [![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat-square&logo=swagger&logoColor=85EA2D&color=282A36)](https://swagger.io)
 [![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=postman&logoColor=FF6C37&color=282A36)](http://postman.com)
-[![Godot Engine](https://img.shields.io/badge/-Godot-05122A?style=flat-square&logo=godotengine&logoColor=478CBF&color=282A36)](https://godotengine.org)
-[![Bevy Engine](https://img.shields.io/badge/-Bevy-05122A?style=flat-square&logo=bevy&logoColor=232326&color=282A36)](https://bevyengine.org/)
 
 <!-- ### Databases -->
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat-square&logo=microsoft%20sql%20server&logoColor=CC2927&color=282A36)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=4169E1&color=282A36)](https://www.postgresql.org)
 [![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=sqlite&logoColor=003B57&color=282A36)](https://www.sqlite.org)
+
+<!-- ### Game Development -->
+[![Godot Engine](https://img.shields.io/badge/-Godot-05122A?style=flat-square&logo=godotengine&logoColor=478CBF&color=282A36)](https://godotengine.org)
+[![Bevy Engine](https://img.shields.io/badge/-Bevy-05122A?style=flat-square&logo=bevy&logoColor=232326&color=282A36)](https://bevyengine.org/)
+[![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat-square&logo=blender&logoColor=E87D0D&color=282A36)](https://www.blender.org/)
+
 
 > [!NOTE]\
 > Icons from <https://simpleicons.org>.\

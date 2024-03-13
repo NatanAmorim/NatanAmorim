@@ -11,7 +11,7 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 [![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=FFFFFF&color=FF0000)](https://www.youtube.com/@natanamorim3746)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=FFFFFF&color=0A66C2)](https://www.linkedin.com/in/natan-amorim-souza-gomes-de-moraes)
 
-- 💬 Ask me about **.NET Core**, **Flutter**, **C#**, **Dart** and maybe**Rust**? (still learning rust).
+- 💬 Ask me about **.NET Core**, **Flutter**, **C#**, **Dart** and maybe **Rust**? (still learning rust).
 - 👨‍💻 I am a results-driven software developer creating efficient software solutions with a focus on C# and Flutter.
 
 ## Tech Stack
@@ -32,6 +32,7 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 [![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat-square&logo=swagger&logoColor=85EA2D&color=282A36)](https://swagger.io)
 [![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=postman&logoColor=FF6C37&color=282A36)](http://postman.com)
 [![Godot Engine](https://img.shields.io/badge/-Godot-05122A?style=flat-square&logo=godotengine&logoColor=478CBF&color=282A36)](https://godotengine.org)
+[![Bevy Engine](https://img.shields.io/badge/-Bevy-05122A?style=flat-square&logo=bevy&logoColor=232326&color=282A36)](https://bevyengine.org/)
 
 <!-- ### Databases -->
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat-square&logo=microsoft%20sql%20server&logoColor=CC2927&color=282A36)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)

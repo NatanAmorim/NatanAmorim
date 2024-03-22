@@ -38,10 +38,11 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 [![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=sqlite&logoColor=003B57&color=282A36)](https://www.sqlite.org)
 
 <!-- ### Game Development -->
+<!--
 [![Godot Engine](https://img.shields.io/badge/-Godot-05122A?style=flat-square&logo=godotengine&logoColor=478CBF&color=282A36)](https://godotengine.org)
 [![Bevy Engine](https://img.shields.io/badge/-Bevy-05122A?style=flat-square&logo=bevy&logoColor=232326&color=282A36)](https://bevyengine.org/)
 [![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat-square&logo=blender&logoColor=E87D0D&color=282A36)](https://www.blender.org/)
-
+-->
 
 > [!NOTE]\
 > Icons from <https://simpleicons.org>.\

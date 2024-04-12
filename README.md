@@ -11,7 +11,7 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 [![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=FFFFFF&color=FF0000)](https://www.youtube.com/@natanamorim3746)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=FFFFFF&color=0A66C2)](https://www.linkedin.com/in/natan-amorim-souza-gomes-de-moraes)
 
-- 💬 Ask me about **.NET Core**, **Flutter**, **C#**, **Dart** and maybe **Rust**? (still learning rust).
+- 💬 Ask me about **.NET Core**, **Flutter**, **C#**, **Dart** and **Node.js**.
 - 👨‍💻 I am a results-driven software developer creating efficient software solutions with a focus on C# and Flutter.
 
 ## Tech Stack
@@ -21,7 +21,7 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 <!-- ### AI Chat -->
 [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=flutter&logoColor=02569B&color=282A36)](https://flutter.dev)
 [![.Net](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat-square&logo=dotnet&logoColor=512BD4&color=282A36)](https://dotnet.microsoft.com/en-us/)
-[![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust&logoColor=000000&color=282A36)](https://www.rust-lang.org/)
+<!-- [![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust&logoColor=000000&color=282A36)](https://www.rust-lang.org/) -->
 [![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat-square&logo=openai&logoColor=24A47F&color=282A36)](https://chat.openai.com)
 [![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-05122A?style=flat-square&logo=googlegemini&logoColor=8E75B2&color=282A36)](https://gemini.google.com/app)
 

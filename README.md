@@ -3,7 +3,7 @@
 **NatanAmorim/NatanAmorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Full-Stack Developer, although I do like Front-End a bit more 😃
+Full-Stack Developer, although I do like Back-End a bit more 😃
 
 ## About me
 
@@ -11,8 +11,8 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 [![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=FFFFFF&color=FF0000)](https://www.youtube.com/@natanamorim3746)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=FFFFFF&color=0A66C2)](https://www.linkedin.com/in/natan-amorim-souza-gomes-de-moraes)
 
-- 💬 Ask me about **.NET Core**, **Flutter**, **C#**, **Dart** and **Node.js**.
-- 👨‍💻 I am a results-driven software developer creating efficient software solutions with a focus on C# and Flutter.
+- 💬 Ask me about **.NET Core**, **Flutter**, **C#**, **Dart**
+- 👨‍💻 I am a results-driven software developer creating efficient software solutions with a focus on C# and Flutter
 
 ## Tech Stack
 
@@ -36,13 +36,6 @@ Full-Stack Developer, although I do like Front-End a bit more 😃
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat-square&logo=microsoft%20sql%20server&logoColor=CC2927&color=282A36)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=4169E1&color=282A36)](https://www.postgresql.org)
 [![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=sqlite&logoColor=003B57&color=282A36)](https://www.sqlite.org)
-
-<!-- ### Game Development -->
-<!--
-[![Godot Engine](https://img.shields.io/badge/-Godot-05122A?style=flat-square&logo=godotengine&logoColor=478CBF&color=282A36)](https://godotengine.org)
-[![Bevy Engine](https://img.shields.io/badge/-Bevy-05122A?style=flat-square&logo=bevy&logoColor=232326&color=282A36)](https://bevyengine.org/)
-[![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat-square&logo=blender&logoColor=E87D0D&color=282A36)](https://www.blender.org/)
--->
 
 > [!NOTE]\
 > Icons from <https://simpleicons.org>.\

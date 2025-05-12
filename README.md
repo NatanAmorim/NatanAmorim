@@ -22,6 +22,7 @@ Full-Stack Developer, although I do like Back-End a bit more 😃
 [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=flutter&logoColor=02569B&color=282A36)](https://flutter.dev)
 [![.Net](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat-square&logo=dotnet&logoColor=512BD4&color=282A36)](https://dotnet.microsoft.com/en-us/)
 <!-- [![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust&logoColor=000000&color=282A36)](https://www.rust-lang.org/) -->
+[![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat-square&logo=claude&logoColor=#D97757&color=282A36)](https://claude.ai)
 [![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat-square&logo=openai&logoColor=24A47F&color=282A36)](https://chat.openai.com)
 [![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-05122A?style=flat-square&logo=googlegemini&logoColor=8E75B2&color=282A36)](https://gemini.google.com/app)
 
